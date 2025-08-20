@@ -43,7 +43,7 @@ const Footer = () => {
       </div>
 
       <div className="w-[100%] h-[50px] flex items-center justify-center mt-8 border-t-[1px] border-gray-400 pt-8 mb-4">
-        <p className="text-xl">&copy; 2024 ITP School | Created by <Link to="https://yahyobek.vercel.app/" target='_blank' className='text-gray-300 border-b-2 border-gray-300'>Yahyobek</Link></p>
+        <p className="text-xl">&copy; 2024 ITP School | Created by <Link to="https://yahyo.blog/" target='_blank' className='text-gray-300 border-b-2 border-gray-300'>Yahyobek</Link></p>
       </div>
     </footer>
   );

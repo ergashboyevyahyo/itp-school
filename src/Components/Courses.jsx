@@ -15,7 +15,7 @@ const Courses = () => {
       <SwiperSlide>
         <div className='w-[100%] md:h-[100%] h-[70%] md:mt-0 sm:mt-28 xs:mt-36 mt-56 xl:px-56 lg:px-36 sm:px-12 px-4 flex items-center justify-center'>
           <div>
-            <h1 className='lg:text-8xl text-6xl text-white font-bold'>ITP School kurslari bilan tanishing`</h1>
+            <h1 className='lg:text-8xl text-6xl text-white font-bold'>IP School kurslari bilan tanishing`</h1>
             <p className='text-gray-300 mt-4 xs:text-2xl text-xl'>Zamonaviy texnologiyalar dunyosida muvaffaqiyatga erishishni xohlaysizmi? ITP School sizga bu yo'lda birinchi va eng muhim qadamingizni tashlashda yordam beradi! Bizning kurslarimiz zamonaviy IT bilimlarini o'zlashtirishni istagan har bir kishiga moslashgan bo'lib, sizga o'z maqsadlaringizga tez va samarali yetishish imkonini beradi.</p>
             <p className='text-gray-300 mt-8 xs:text-2xl text-xl md:hidden block'>Kompyuter savodxonligi yoki frontend dasturlashni o'rganishni xohlaysizmi? Biz sizga kerakli bilim va ko'nikmalarni taqdim etamiz, shu bilan birga o'quv jarayoningiz qiziqarli va samarali bo'lishini ta'minlaymiz. Har bir kurs amaliy mashg'ulotlarga boy bo'lib, sizga real loyihalar ustida ishlash imkonini beradi.</p>
             <p className='text-gray-300 mt-8 xs:text-2xl text-xl md:hidden block'>Bizning professional o'qituvchilarimiz qo'llab-quvvatlovida siz qisqa vaqt ichida o'zingiz xohlagan natijalarga erishishingiz mumkin!</p>
